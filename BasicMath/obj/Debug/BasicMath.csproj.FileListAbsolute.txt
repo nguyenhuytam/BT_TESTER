@@ -1,0 +1,13 @@
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
+C:\Users\RaviRanjanKr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+D:\dowload\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+D:\dowload\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
+D:\dowload\BasicMath\BasicMath\bin\Debug\BasicMath.exe.config
+D:\dowload\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+D:\dowload\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+D:\dowload\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.AssemblyReference.cache
+D:\dowload\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.SuggestedBindingRedirects.cache
+D:\dowload\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
